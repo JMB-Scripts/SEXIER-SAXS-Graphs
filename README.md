@@ -49,12 +49,19 @@ v4 introduce a gui where you can :
 
 ## Output
  The script will generate the following files:
+ 
  1- filename_01_Rg.txt: Guinier approximation data (q^2, ln(I_exp), ln(I_theo), normalized residuals)
+ 
  2- file_name_02_Norm-Kratky.txt: data for normalized Kratky (x, y)
+ 
  3- file_name_03_VC.txt: data for VC (q, I(q)*q)
+ 
  4- file_name_04_VC_integral.txt: data for VC
+ 
  5- file_name_05_Summary.txt: summary file (Rg, I0, qmin_Rg, qmax_Rg, MW)
+ 
  6- A summary Graphs as png or svg ready to put in your labbook
+ 
 
 ![image](https://github.com/user-attachments/assets/834edc29-8e5a-4ac1-9952-096e2127d903)
 
