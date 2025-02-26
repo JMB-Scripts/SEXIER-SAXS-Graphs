@@ -18,7 +18,8 @@ v4 introduce a gui where you can :
     - `qmax_offset`: the offset (in number of lines) to be added to the first usable line to determine qmax use the value from PRIMUS or RAW.
     3. Process the data 
 
-    ![image](https://github.com/user-attachments/assets/4a71c4cd-e0b8-4743-89bb-b99ac8e4b2ef)
+![image](https://github.com/user-attachments/assets/b04afb01-bf6f-4e54-a428-6684e08b3acd)
+
 
 
 ## Features
