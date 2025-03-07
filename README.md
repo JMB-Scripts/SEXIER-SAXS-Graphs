@@ -2,6 +2,10 @@
 Regain control of your SAXS data.
 This Python script is designed to process SAXS (Small Angle X-ray Scattering) data and to generate results such as the Guinier approximation, the Kratky graph and the volume of correlation in a text file format.
 Then you can make YOUR OWN representations for these graphs, with YOUR preferred software (Excel, Prism, Origin etc.). 
+
+If you found this project useful, used it, or needed to customize it, please let me know! 
+Your feedback is essential to help me improve and continue this project. You can reach out to me directly at reach out to me via email.
+
 ## User manual
 
 # Prerequisites
