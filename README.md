@@ -4,7 +4,8 @@ This Python script is designed to process SAXS (Small Angle X-ray Scattering) da
 Then you can make YOUR OWN representations for these graphs, with YOUR preferred software (Excel, Prism, Origin etc.). 
 
 If you found this project useful, used it, or needed to customize it, please let me know! 
-Your feedback is essential to help me improve and continue this project. You can reach out to me directly at reach out to me via email.
+Your feedback is essential to help me improve and continue this project. You can reach out to me directly at [reach out to me via email](jean-marie.bourhis@univ-grenoble-alpes.fr).
+
 
 ## User manual
 
