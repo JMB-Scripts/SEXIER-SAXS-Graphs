@@ -1,3 +1,9 @@
+# Update 4.0.1
+Minor:
+
+- Correction on the label of the axis (bad copypaste) for the Correlation volume the right axis is I(q)*q).
+
+
 # SEXIER-SAXS-Graphs
 Regain control of your SAXS data.
 This Python script is designed to process SAXS (Small Angle X-ray Scattering) data and to generate results such as the Guinier approximation, the Kratky graph and the volume of correlation in a text file format.
@@ -94,7 +100,15 @@ If the app doesn't start go to
  Windows stand alone can be found here
 
 https://cloud.univ-grenoble-alpes.fr/s/CAWTgyM5zFFpmdL
+
  
  Linux  stand alone can be found here:
 
  https://cloud.univ-grenoble-alpes.fr/s/4H6y9wTQnCC9a2k
+
+ 
+## References :
+
+Putnam, C. D., Hammel, M., Hura, G. L. & Tainer, J. a (2007). Q. Rev. Biophys. 40, 191–285. DOI: 10.1017/S0033583507004635
+Rambo, R. P. & Tainer, J. A. (2013). Nature. 496, 477–481. DOI: 10.1038/nature12070
+J. Perez, P. Vachette, D. Russo, M. Desmadril, D. Durand (2001) J. Mol. Biol., 308 , pp. 721-743. DOI: 10.1006/jmbi.2001.4611
