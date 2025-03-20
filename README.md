@@ -100,9 +100,9 @@ If the app doesn't start go to
 	4.	If macOS has blocked the app, you’ll see a message saying it was prevented from opening.
 	5.	Click “Open Anyway” to allow the app to run.
  
- Windows stand alone can be found here
-
-https://cloud.univ-grenoble-alpes.fr/s/CAWTgyM5zFFpmdL
+ Windows stand alone can be found:
+ 
+ [Here](https://cloud.univ-grenoble-alpes.fr/s/ybA5nANar6rd9FF)
 
  
  Linux  stand alone can be found here:
