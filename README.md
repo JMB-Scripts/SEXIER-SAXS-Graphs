@@ -87,7 +87,7 @@ v4 introduce a gui where you can :
 
 ## Notes:
 
-/!\ The first start is always very long, it seems that nothing append but be patient. This is link to matplot that build its font /!\
+/!\ The first start is always very long, it seems that nothing append but be patient. This is linked to matplot that build its font /!\
 
 Macapp stand alone version can be downloaded here :
 
