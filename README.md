@@ -91,7 +91,7 @@ v4 introduce a gui where you can :
 
 Macapp stand alone version can be downloaded here :
 
-https://cloud.univ-grenoble-alpes.fr/s/dpTGA2YDEbpBxxA
+[Here](https://cloud.univ-grenoble-alpes.fr/s/DowBSzr9TzC7Qkg)
 
 If the app doesn't start go to 
 	1.	Open System Settings (or System Preferences on older macOS versions).
@@ -102,12 +102,12 @@ If the app doesn't start go to
  
  Windows stand alone can be found:
  
- [Here](https://cloud.univ-grenoble-alpes.fr/s/ybA5nANar6rd9FF)
+ [Here](https://cloud.univ-grenoble-alpes.fr/s/TC2WecCtjyBz3ii)
 
  
  Linux  stand alone can be found here:
 
- https://cloud.univ-grenoble-alpes.fr/s/4H6y9wTQnCC9a2k
+ [Here](https://cloud.univ-grenoble-alpes.fr/s/HNrTmHtDrESr7Cg)
 
  
 ## References :
