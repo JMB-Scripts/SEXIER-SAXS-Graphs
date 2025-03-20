@@ -1,7 +1,7 @@
 # Update 4.0.1
 Minor:
 
-- Correction on the label of the axis (bad copypaste) for the Correlation volume the right axis is I(q)*q).
+- Correction on the label of the axis (bad copy/paste) for the Correlation volume the right axis is I(q)*q).
 
 
 # SEXIER-SAXS-Graphs
