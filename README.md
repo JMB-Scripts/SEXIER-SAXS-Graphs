@@ -86,6 +86,9 @@ v4 introduce a gui where you can :
 ![Capture d’écran 2024-10-25 à 13 39 00](https://github.com/user-attachments/assets/3e07d5a6-09f5-4b3b-9b10-cd18248121e5)
 
 ## Notes:
+
+/!\ The first start is always very long, it seems that nothing append but be patient. This is link to matplot that build its font /!\
+
 Macapp stand alone version can be downloaded here :
 
 https://cloud.univ-grenoble-alpes.fr/s/dpTGA2YDEbpBxxA
@@ -110,5 +113,7 @@ https://cloud.univ-grenoble-alpes.fr/s/CAWTgyM5zFFpmdL
 ## References :
 
 Putnam, C. D., Hammel, M., Hura, G. L. & Tainer, J. a (2007). Q. Rev. Biophys. 40, 191–285. DOI: 10.1017/S0033583507004635
+
 Rambo, R. P. & Tainer, J. A. (2013). Nature. 496, 477–481. DOI: 10.1038/nature12070
+
 J. Perez, P. Vachette, D. Russo, M. Desmadril, D. Durand (2001) J. Mol. Biol., 308 , pp. 721-743. DOI: 10.1006/jmbi.2001.4611
