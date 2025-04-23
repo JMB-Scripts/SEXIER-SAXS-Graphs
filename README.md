@@ -23,7 +23,7 @@ Your feedback is essential to help me improve and continue this project. You can
 
 # Prerequisites
 - Python 3.x
-- Necessary packages: numpy, matplotlib, scipy
+- Necessary packages: numpy, matplotlib, scipy, Qt5
 - SAXS Data need to be in Å-1
 
 ## Command syntax
