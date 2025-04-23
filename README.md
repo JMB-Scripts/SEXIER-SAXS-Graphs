@@ -1,6 +1,6 @@
 # Update 
 
-Qt.4.0.2
+Qt.4.0.2 Major
 - Add a Qt interface to see directly your changes 
 - Add a check box to plot for the form factor log(I(q) vs log(q)
   
