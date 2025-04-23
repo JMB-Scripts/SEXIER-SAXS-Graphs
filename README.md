@@ -1,4 +1,10 @@
-# Update 4.0.1
+# Update 
+
+Qt.4.0.2
+- Add a Qt interface to see directly your changes 
+- Add a check box to plot for the form factor log(I(q) vs log(q)
+  
+4.0.1
 Minor:
 
 - Correction on the label of the axis (bad copy/paste) for the Correlation volume the right axis is I(q)*q).
