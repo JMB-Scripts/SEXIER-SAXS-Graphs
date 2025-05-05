@@ -34,9 +34,9 @@ Your feedback is essential to help me improve and continue this project. You can
 
 v4 introduce a gui where you can :
 
-    1. Browse to your `filename.dat` : the name of the .dat file containing the SAXS experimental data.
+1. Browse to your `filename.dat` : the name of the .dat file containing the SAXS experimental data.
     
-    2. You can estimate qmin and qmax automatically (not as good as Raw or Primus), or enter the known values.
+2. You can estimate qmin and qmax automatically (not as good as Raw or Primus), or enter the known values.
     
     - `qmin_offset` : the offset (in number of lines) to be added to the first usable line to determine qmin, use the value from PRIMUS or RAW.
     
