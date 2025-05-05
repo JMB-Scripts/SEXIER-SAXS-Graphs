@@ -11,6 +11,7 @@ Minor:
 
 
 # SEXIER-SAXS-Graphs
+
 Regain control of your SAXS data.
 
 This Python script is designed to process SAXS (Small Angle X-ray Scattering) data and to generate results such as the Guinier approximation, the Kratky graph and the volume of correlation in a text file format.
@@ -32,6 +33,7 @@ Your feedback is essential to help me improve and continue this project. You can
 ## Command syntax
 
 v4 introduce a gui where you can :
+
     1. Browse to your `filename.dat` : the name of the .dat file containing the SAXS experimental data.
     
     2. You can estimate qmin and qmax automatically (not as good as Raw or Primus), or enter the known values.
@@ -44,12 +46,10 @@ v4 introduce a gui where you can :
 
 ![image](https://github.com/user-attachments/assets/278cbefb-8ffa-4c47-a295-b969c943f17c)
 
-
-
-
 ## Features
 
  1. Guinier approximation :
+    
  - Read .dat file and determine a first usable line.
    
  - Data extraction for q and I(q) in the selected range.
@@ -61,6 +61,7 @@ v4 introduce a gui where you can :
  - Display graph with experimental points and theoretical curve.
 
  2. Kratky 2:
+    
  - Extract data in the selected range for Kratky.
    
  - Calculation and normalisation of values for Kratky (𝑞𝑅𝑔)^2.𝐼(𝑞)/𝐼(0) vs 𝑞𝑅𝑔.
@@ -70,6 +71,7 @@ v4 introduce a gui where you can :
  - Display Kratky graph.
 
  3. Correlation volume (CV):
+    
  - Extract data up to q=0.3 or up to 8/Rg.
    
  - Calculate the integral of the product I(q)*q:
@@ -85,6 +87,7 @@ v4 introduce a gui where you can :
  - Write values for Rg, I0, qmin_Rg, qmax_Rg, MW to a text file.
 
 ## Output
+
  The script will generate the following files:
  
  1- filename_01_Rg.txt: Guinier approximation data (q^2, ln(I_exp), ln(I_theo), normalized residuals)
