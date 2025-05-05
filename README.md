@@ -87,10 +87,14 @@ v4 introduce a gui where you can :
 
    
 ## Plots:
-  1- Form factor
+
+  1- Form factor (can be display as log-log by checking the box)
+  
   2- Guinier Fit (Rg, I(0), qmin*Rg qmax*Rg,nbeg, nend) & Residuals of the fit (check aggregation and or repulsion, here looks nice)
+  
   3- Normalised Kratky plot (here presence of disordered regions)
-  4- Plot of the Volume of correlation and cumulative integral (MW determination at 0.3, 8/Rg and from Porod cut at 8/Rg)
+  
+  4- Plot of the Volume of correlation and cumulative integral for MW determination (severalat 0.3, 8/Rg and from Porod cut at 8/Rg)
 
 
 ## Notes:
@@ -103,9 +107,13 @@ Macapp stand alone version can be downloaded here :
 
 If the app doesn't start go to 
 	1.	Open System Settings (or System Preferences on older macOS versions).
+ 
 	2.	Go to Privacy & Security.
+ 
 	3.	Scroll down to the Security section.
+ 
 	4.	If macOS has blocked the app, you’ll see a message saying it was prevented from opening.
+ 
 	5.	Click “Open Anyway” to allow the app to run.
  
  Windows stand alone can be found:
