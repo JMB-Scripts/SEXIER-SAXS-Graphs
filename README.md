@@ -12,6 +12,7 @@ Minor:
 
 # SEXIER-SAXS-Graphs
 Regain control of your SAXS data.
+
 This Python script is designed to process SAXS (Small Angle X-ray Scattering) data and to generate results such as the Guinier approximation, the Kratky graph and the volume of correlation in a text file format.
 
 Then you can make YOUR OWN representations for these graphs, with YOUR preferred software (Excel, Prism, Origin etc.). 
