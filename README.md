@@ -81,7 +81,8 @@ v4 introduce a gui where you can :
  6- A summary Graphs as png or svg ready to put in your labbook
  
 
-![image](https://github.com/user-attachments/assets/cf607d74-0d76-4243-95c0-2a95611d2e09)
+![image](https://github.com/user-attachments/assets/f23afc9a-6548-4b43-ab90-30f84d823f2b)
+
 
 
    
