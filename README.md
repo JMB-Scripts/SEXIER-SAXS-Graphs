@@ -101,13 +101,9 @@ v4 introduce a gui where you can :
  5- file_name_05_Summary.txt: summary file (Rg, I0, qmin_Rg, qmax_Rg, MW)
  
  6- A summary Graphs as png or svg ready to put in your labbook
- 
 
-![image](https://github.com/user-attachments/assets/f23afc9a-6548-4b43-ab90-30f84d823f2b)
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/94563e52-5424-46f8-9298-b1ef396b767c" />
 
-
-
-   
 ## Plots:
 
   1- Form factor (can be display as log-log by checking the box)
