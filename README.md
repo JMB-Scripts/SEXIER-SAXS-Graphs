@@ -35,7 +35,8 @@ v4 introduce a gui where you can :
     - `qmax_offset`: the offset (in number of lines) to be added to the first usable line to determine qmax use the value from PRIMUS or RAW.
     3. Process the data 
 
-![image](https://github.com/user-attachments/assets/b04afb01-bf6f-4e54-a428-6684e08b3acd)
+![image](https://github.com/user-attachments/assets/278cbefb-8ffa-4c47-a295-b969c943f17c)
+
 
 
 
@@ -80,7 +81,8 @@ v4 introduce a gui where you can :
  6- A summary Graphs as png or svg ready to put in your labbook
  
 
-![image](https://github.com/user-attachments/assets/834edc29-8e5a-4ac1-9952-096e2127d903)
+![image](https://github.com/user-attachments/assets/cf607d74-0d76-4243-95c0-2a95611d2e09)
+
 
    
 ## Plots:
@@ -89,7 +91,6 @@ v4 introduce a gui where you can :
   3- Normalised Kratky plot (here presence of disordered regions)
   4- Plot of the Volume of correlation and cumulative integral (MW determination at 0.3, 8/Rg and from Porod cut at 8/Rg)
 
-![Capture d’écran 2024-10-25 à 13 39 00](https://github.com/user-attachments/assets/3e07d5a6-09f5-4b3b-9b10-cd18248121e5)
 
 ## Notes:
 
