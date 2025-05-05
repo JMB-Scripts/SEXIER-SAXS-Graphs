@@ -13,9 +13,11 @@ Minor:
 # SEXIER-SAXS-Graphs
 Regain control of your SAXS data.
 This Python script is designed to process SAXS (Small Angle X-ray Scattering) data and to generate results such as the Guinier approximation, the Kratky graph and the volume of correlation in a text file format.
+
 Then you can make YOUR OWN representations for these graphs, with YOUR preferred software (Excel, Prism, Origin etc.). 
 
 If you found this project useful, used it, or needed to customize it, please let me know! 
+
 Your feedback is essential to help me improve and continue this project. You can reach out to me directly at [reach out to me via email](jean-marie.bourhis@univ-grenoble-alpes.fr).
 
 
@@ -30,9 +32,13 @@ Your feedback is essential to help me improve and continue this project. You can
 
 v4 introduce a gui where you can :
     1. Browse to your `filename.dat` : the name of the .dat file containing the SAXS experimental data.
+    
     2. You can estimate qmin and qmax automatically (not as good as Raw or Primus), or enter the known values.
+    
     - `qmin_offset` : the offset (in number of lines) to be added to the first usable line to determine qmin, use the value from PRIMUS or RAW.
+    
     - `qmax_offset`: the offset (in number of lines) to be added to the first usable line to determine qmax use the value from PRIMUS or RAW.
+    
     3. Process the data 
 
 ![image](https://github.com/user-attachments/assets/278cbefb-8ffa-4c47-a295-b969c943f17c)
@@ -44,25 +50,37 @@ v4 introduce a gui where you can :
 
  1. Guinier approximation :
  - Read .dat file and determine a first usable line.
+   
  - Data extraction for q and I(q) in the selected range.
+   
  - Linear regression to calculate Rg (radius of gyration) and I0 (intensity at q=0).
+   
  - Write data to text file.
+   
  - Display graph with experimental points and theoretical curve.
 
  2. Kratky 2:
  - Extract data in the selected range for Kratky.
+   
  - Calculation and normalisation of values for Kratky (𝑞𝑅𝑔)^2.𝐼(𝑞)/𝐼(0) vs 𝑞𝑅𝑔.
+   
  - Write data to a text file.
+   
  - Display Kratky graph.
 
  3. Correlation volume (CV):
  - Extract data up to q=0.3 or up to 8/Rg.
- Calculate the integral of the product I(q)*q.
- - Calculation of VC, QR (quality factor) and MW (molecular weight).
- - Calculation of the Mw from Porod using SAXSMOW approach with a cut at 8/Rg
+   
+ - Calculate the integral of the product I(q)*q:
+   
+	 - Calculation of VC, QR (quality factor) and MW (molecular weight).
+    
+	 - Calculation of the Mw from Porod using SAXSMOW approach with a cut at 8/Rg
+    
  - Write data to text file.
 
  4. Summary file:
+    
  - Write values for Rg, I0, qmin_Rg, qmax_Rg, MW to a text file.
 
 ## Output
