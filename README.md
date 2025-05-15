@@ -154,11 +154,11 @@ If the app doesn't start go to
    
    [Here](https://cloud.univ-grenoble-alpes.fr/s/CX2y5i5BmKwW5nC)
 
-3- MacOS qt stand alone :
+3- MacOS Qt stand alone :
      
    [Here](https://cloud.univ-grenoble-alpes.fr/s/XrZ2F3dc7kZHoSB)
 
-4- Linux Qt sstand alone :
+4- Linux Qt stand alone :
 
    [Here](https://cloud.univ-grenoble-alpes.fr/s/H3kC3tCByfNy63y)
 
