@@ -1,6 +1,6 @@
 # Update 
 
-Qt.4.0.2 Major
+Qt.4.0.3 Major
 - Add a Qt interface to see directly your changes 
 - Add a check box to plot the form factor as log(I(q) vs log(q)
   
@@ -142,6 +142,25 @@ If the app doesn't start go to
  Linux  stand alone can be found here:
 
  [Here](https://cloud.univ-grenoble-alpes.fr/s/HNrTmHtDrESr7Cg)
+
+
+ ## 4.0.3-Qt versions can be found here:
+
+	Windows Qt stand alone:
+ 
+ 	[Here](https://cloud.univ-grenoble-alpes.fr/s/4t4aAr6NeAkFqjK)
+
+  	Windows Qt with librairies (a bit faster to start):
+   
+   	[Here](https://cloud.univ-grenoble-alpes.fr/s/CX2y5i5BmKwW5nC)
+
+    	MacOS qt stand alone :
+     
+     	[Here](https://cloud.univ-grenoble-alpes.fr/s/XrZ2F3dc7kZHoSB)
+
+      	Linux Qt sstand alone :
+
+      	[Here](https://cloud.univ-grenoble-alpes.fr/s/H3kC3tCByfNy63y)
 
  
 ## References :
