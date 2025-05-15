@@ -146,19 +146,19 @@ If the app doesn't start go to
 
  ## 4.0.3-Qt versions can be found here:
 
-	1- Windows Qt stand alone:
+1- Windows Qt stand alone:
  
- 	[Here](https://cloud.univ-grenoble-alpes.fr/s/4t4aAr6NeAkFqjK)
+ 	 [Here](https://cloud.univ-grenoble-alpes.fr/s/4t4aAr6NeAkFqjK)
 
-  	2- Windows Qt with librairies (a bit faster to start):
+2- Windows Qt with librairies (a bit faster to start):
    
    	[Here](https://cloud.univ-grenoble-alpes.fr/s/CX2y5i5BmKwW5nC)
 
-    	3- MacOS qt stand alone :
+3- MacOS qt stand alone :
      
      	[Here](https://cloud.univ-grenoble-alpes.fr/s/XrZ2F3dc7kZHoSB)
 
-      	4- Linux Qt sstand alone :
+4- Linux Qt sstand alone :
 
       	[Here](https://cloud.univ-grenoble-alpes.fr/s/H3kC3tCByfNy63y)
 
