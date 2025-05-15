@@ -148,19 +148,19 @@ If the app doesn't start go to
 
 1- Windows Qt stand alone:
  
- 	 [Here](https://cloud.univ-grenoble-alpes.fr/s/4t4aAr6NeAkFqjK)
+ [Here](https://cloud.univ-grenoble-alpes.fr/s/4t4aAr6NeAkFqjK)
 
 2- Windows Qt with librairies (a bit faster to start):
    
-   	[Here](https://cloud.univ-grenoble-alpes.fr/s/CX2y5i5BmKwW5nC)
+   [Here](https://cloud.univ-grenoble-alpes.fr/s/CX2y5i5BmKwW5nC)
 
 3- MacOS qt stand alone :
      
-     	[Here](https://cloud.univ-grenoble-alpes.fr/s/XrZ2F3dc7kZHoSB)
+   [Here](https://cloud.univ-grenoble-alpes.fr/s/XrZ2F3dc7kZHoSB)
 
 4- Linux Qt sstand alone :
 
-      	[Here](https://cloud.univ-grenoble-alpes.fr/s/H3kC3tCByfNy63y)
+   [Here](https://cloud.univ-grenoble-alpes.fr/s/H3kC3tCByfNy63y)
 
  
 ## References :
