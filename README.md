@@ -1,13 +1,12 @@
 # Update 
+Major update 7.x
 
-Qt.4.0.3 Major
-- Add a Qt interface to see directly your changes 
-- Add a check box to plot the form factor as log(I(q) vs log(q)
-  
-4.0.1
-Minor:
-
-- Correction on the label of the axis (bad copy/paste) for the Correlation volume the right axis is I(q)*q).
+3-Panel Layout**: Central control panel, 4-panels: Guinier analysis plot, Kratkt, Volume of correlation and a P(r) distribution plot.
+-   **Internal BIFT for P(r) Analysis**: Pure Python implementation of the BIFT algorithm (Thx a lot BioXTAS RAW).
+-   **Data Loading & Unit Conversion**: Automatically loads a .dat file and converts q-units from nm⁻¹ to Å⁻¹.
+-   **Automated & Manual Guinier Analysis**: For determining Rg and I(0).
+-   **Molecular Weight (MW) & Oligomeric State Estimation**: Based on the Volume of Correlation.
+-   **Comprehensive Plotting & Automatic Saving**: Automatic saving of plots (PNG/SVG) and data files.
 
 
 # SEXIER-SAXS-Graphs
