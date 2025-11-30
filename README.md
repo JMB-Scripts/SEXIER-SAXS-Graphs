@@ -43,7 +43,8 @@ v4 introduce a gui where you can :
     
     3. Process the data 
 
-![image](https://github.com/user-attachments/assets/278cbefb-8ffa-4c47-a295-b969c943f17c)
+<img width="1440" height="962" alt="image" src="https://github.com/user-attachments/assets/99940482-d1ac-489d-bc0b-d9d17d1b089a" />
+
 
 ## Features
 
@@ -55,8 +56,6 @@ v4 introduce a gui where you can :
    
  - Linear regression to calculate Rg (radius of gyration) and I0 (intensity at q=0).
    
- - Write data to text file.
-   
  - Display graph with experimental points and theoretical curve.
 
  2. Kratky 2:
@@ -64,8 +63,6 @@ v4 introduce a gui where you can :
  - Extract data in the selected range for Kratky.
    
  - Calculation and normalisation of values for Kratky (𝑞𝑅𝑔)^2.𝐼(𝑞)/𝐼(0) vs 𝑞𝑅𝑔.
-   
- - Write data to a text file.
    
  - Display Kratky graph.
 
@@ -79,11 +76,16 @@ v4 introduce a gui where you can :
     
 	 - Calculation of the Mw from Porod using SAXSMOW approach with a cut at 8/Rg
     
- - Write data to text file.
+ - If you enter the Mw estimated from the sequence an estimation (+/- 10%) of the oligomeric state will be perform 
 
- 4. Summary file:
+<img width="283" height="154" alt="image" src="https://github.com/user-attachments/assets/bd6df925-fbd0-4c04-947d-c2cba1a42d44" />
     
- - Write values for Rg, I0, qmin_Rg, qmax_Rg, MW to a text file.
+
+ 4. BIFT to estimate Dmax
+
+   <img width="1440" height="962" alt="image" src="https://github.com/user-attachments/assets/ded85805-a03a-46fd-8d5b-5c93e43ec4e6" />
+
+
 
 ## Output
 
@@ -97,11 +99,12 @@ v4 introduce a gui where you can :
  
  4- file_name_04_VC_integral.txt: data for VC
  
- 5- file_name_05_Summary.txt: summary file (Rg, I0, qmin_Rg, qmax_Rg, MW)
+ 5- file_name_05_Summary.txt: summary file (Rg, I0, qmin_Rg, qmax_Rg, MW, Dmax)
  
  6- A summary Graphs as png or svg ready to put in your labbook
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/94563e52-5424-46f8-9298-b1ef396b767c" />
+<img width="288" height="225" alt="image" src="https://github.com/user-attachments/assets/bdc92d55-ca3c-48d6-8845-af79ddf52a46" />
+
 
 ## Plots:
 
@@ -113,14 +116,15 @@ v4 introduce a gui where you can :
   
   4- Plot of the Volume of correlation and cumulative integral for MW determination (severalat 0.3, 8/Rg and from Porod cut at 8/Rg)
 
+  5- P(r) and the fit 
 
-## Notes:
 
-/!\ The first start is always very long, it seems that nothing append but be patient. This is linked to matplot that build its font /!\
+## Stand alone :
+
 
 Macapp stand alone version can be downloaded here :
 
-[Here](https://cloud.univ-grenoble-alpes.fr/s/DowBSzr9TzC7Qkg)
+
 
 If the app doesn't start go to 
 	1.	Open System Settings (or System Preferences on older macOS versions).
@@ -135,37 +139,14 @@ If the app doesn't start go to
  
  Windows stand alone can be found:
  
- [Here](https://cloud.univ-grenoble-alpes.fr/s/TC2WecCtjyBz3ii)
+
 
  
- Linux  stand alone can be found here:
-
- [Here](https://cloud.univ-grenoble-alpes.fr/s/HNrTmHtDrESr7Cg)
+ Linux  stand alone can be found here (coming soon):
 
 
- ## 4.0.3-Qt versions can be found here:
 
-1- Windows Qt stand alone:
- 
- [Here](https://cloud.univ-grenoble-alpes.fr/s/4t4aAr6NeAkFqjK)
 
-2- Windows Qt with librairies (a bit faster to start):
-   
-   [Here](https://cloud.univ-grenoble-alpes.fr/s/CX2y5i5BmKwW5nC)
 
-3- MacOS Qt stand alone :
-     
-   [Here](https://cloud.univ-grenoble-alpes.fr/s/XrZ2F3dc7kZHoSB)
-
-4- Linux Qt stand alone :
-
-   [Here](https://cloud.univ-grenoble-alpes.fr/s/H3kC3tCByfNy63y)
 
  
-## References :
-
-Putnam, C. D., Hammel, M., Hura, G. L. & Tainer, J. a (2007). Q. Rev. Biophys. 40, 191–285. DOI: 10.1017/S0033583507004635
-
-Rambo, R. P. & Tainer, J. A. (2013). Nature. 496, 477–481. DOI: 10.1038/nature12070
-
-J. Perez, P. Vachette, D. Russo, M. Desmadril, D. Durand (2001) J. Mol. Biol., 308 , pp. 721-743. DOI: 10.1006/jmbi.2001.4611
