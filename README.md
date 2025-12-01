@@ -121,28 +121,11 @@ v4 introduce a gui where you can :
 
 ## Stand alone :
 
+All stand alone will be regroup in the SAXIER-Suite
+so have look here 
 
-Macapp stand alone version can be downloaded here :
+https://github.com/JMB-Scripts/SAXSier
 
-
-
-If the app doesn't start go to 
-	1.	Open System Settings (or System Preferences on older macOS versions).
- 
-	2.	Go to Privacy & Security.
- 
-	3.	Scroll down to the Security section.
- 
-	4.	If macOS has blocked the app, you’ll see a message saying it was prevented from opening.
- 
-	5.	Click “Open Anyway” to allow the app to run.
- 
- Windows stand alone can be found:
- 
-
-
- 
- Linux  stand alone can be found here (coming soon):
 
 
 
