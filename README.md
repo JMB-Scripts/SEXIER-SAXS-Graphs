@@ -119,9 +119,9 @@ v4 introduce a gui where you can :
   5- P(r) and the fit 
 
 
-## Stand alone :
+## Standalone :
 
-All stand alone will be regroup in the SAXIER-Suite
+All standalone will be regroup in the SAXIER-Suite
 so have look here 
 
 https://github.com/JMB-Scripts/SAXSier
